@@ -130,6 +130,7 @@
       "juno_denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png"
     },
+    {
       "id": "dig",
       "name": "Dig",
       "symbol": "DIG",
@@ -141,5 +142,6 @@
       "juno_channel": "channel-37",
       "juno_denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A",
       "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png"
+    }
   ]
 }
