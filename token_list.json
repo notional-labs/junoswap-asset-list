@@ -177,7 +177,21 @@
       "tags": ["native"],
       "native":true,
       "denom":"ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
-    }
+    },
+    {
+        "id": "dig",
+        "pool_id": "JUNO-DIG",
+        "chain_id": "dig-1",
+        "token_address": "",
+        "swap_address": "juno1fweq070y8lvxmtn7j3p7yltphg8uuksk7p875suwppyzg259rt0s29qgss",
+        "symbol": "DIG",
+        "name": "DIG",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
+        "tags": ["native"],
+        "native":true,
+        "denom":"ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
+      }
   ],
   "version": {
     "major": 0,
